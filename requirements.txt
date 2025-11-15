@@ -7,4 +7,5 @@ aiofiles==23.2.1
 cryptography==44.0.1
 bcrypt==4.1.2
 itsdangerous==2.1.2
+starlette>=0.47.2
 
